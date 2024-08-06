@@ -1,0 +1,14 @@
+D:\.NET Diploma\C#\LMSProject\LMSProject\bin\Debug\net8.0\LMSProject.exe
+D:\.NET Diploma\C#\LMSProject\LMSProject\bin\Debug\net8.0\LMSProject.deps.json
+D:\.NET Diploma\C#\LMSProject\LMSProject\bin\Debug\net8.0\LMSProject.runtimeconfig.json
+D:\.NET Diploma\C#\LMSProject\LMSProject\bin\Debug\net8.0\LMSProject.dll
+D:\.NET Diploma\C#\LMSProject\LMSProject\bin\Debug\net8.0\LMSProject.pdb
+D:\.NET Diploma\C#\LMSProject\LMSProject\obj\Debug\net8.0\LMSProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Diploma\C#\LMSProject\LMSProject\obj\Debug\net8.0\LMSProject.AssemblyInfoInputs.cache
+D:\.NET Diploma\C#\LMSProject\LMSProject\obj\Debug\net8.0\LMSProject.AssemblyInfo.cs
+D:\.NET Diploma\C#\LMSProject\LMSProject\obj\Debug\net8.0\LMSProject.csproj.CoreCompileInputs.cache
+D:\.NET Diploma\C#\LMSProject\LMSProject\obj\Debug\net8.0\LMSProject.dll
+D:\.NET Diploma\C#\LMSProject\LMSProject\obj\Debug\net8.0\refint\LMSProject.dll
+D:\.NET Diploma\C#\LMSProject\LMSProject\obj\Debug\net8.0\LMSProject.pdb
+D:\.NET Diploma\C#\LMSProject\LMSProject\obj\Debug\net8.0\LMSProject.genruntimeconfig.cache
+D:\.NET Diploma\C#\LMSProject\LMSProject\obj\Debug\net8.0\ref\LMSProject.dll
